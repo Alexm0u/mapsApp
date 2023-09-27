@@ -1,8 +1,8 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
-
 .env
-src/environtments/environtments.ts
+src/environments/environment.ts
+
 
 # Compiled output
 /dist
@@ -14,7 +14,7 @@ src/environtments/environtments.ts
 /node_modules
 npm-debug.log
 yarn-error.log
-    
+
 # IDEs and editors
 .idea/
 .project
